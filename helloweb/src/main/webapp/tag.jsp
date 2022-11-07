@@ -50,7 +50,9 @@
 		문장입니다~~<br/>
 	</p>
 	
-	<a href="hello.jsp?name=선태헌">hello로 가기</a>
+	<a href="hello.jsp?name=선태헌">hello로 가기1</a>
+	<br/>
+	<a href="/helloweb/hello?name=선태헌">hello로 가기2</a>
 	<br/>
 	<a href="form.jsp">폼으로 가기</a>
 	
